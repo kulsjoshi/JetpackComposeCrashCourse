@@ -57,6 +57,7 @@ fun Greeting(name: String) {
         GreetingText(name = name)
         RowLayout()
         BoxLayout(name = name)
+        println("THIS IS NEW CHANGES AND COMMIT")
     }
 }
 
