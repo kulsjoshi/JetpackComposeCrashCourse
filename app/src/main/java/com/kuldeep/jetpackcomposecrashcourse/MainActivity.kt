@@ -58,8 +58,6 @@ fun Greeting(name: String) {
         RowLayout()
         BoxLayout(name = name)
         println("THIS IS NEW CHANGES AND COMMIT")
-        println("This is Experimental Branch")
-        println("merge conflict in main branch")
     }
 }
 
