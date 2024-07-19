@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JetpackComposeCrashCourse</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_click_me_acitivity">ClickMeAcitivity</string>
+    <string name="title_activity_customized_list">CustomizedListActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>
